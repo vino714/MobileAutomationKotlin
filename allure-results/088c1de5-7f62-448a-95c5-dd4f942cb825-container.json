@@ -1,0 +1,1 @@
+{"uuid":"088c1de5-7f62-448a-95c5-dd4f942cb825","name":"tests.BaseTest.configureEnvironment","description":"","start":1705943073911,"stop":1705943074566,"children":["75c10c32-fe16-49f5-9263-f0dc63a161ec"],"befores":[{"name":"configureEnvironment","status":"passed","stage":"finished","description":"","start":1705943073911,"stop":1705943074558}]}

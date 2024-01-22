@@ -1,0 +1,12 @@
+ [
+    {
+      "searchText": "Toronto Maple Leafs",
+      "type": "Team",
+      "tab": "Team Stats"
+    },
+    {
+      "searchText": "Ken Giles",
+      "type": "Player",
+      "tab": "Info"
+    }
+  ]
